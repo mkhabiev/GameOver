@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "072fb719-6f6b-44bf-8c0f-e171d94a95a8": {
+      "ProjectGuid": "072fb719-6f6b-44bf-8c0f-e171d94a95a8",
+      "DisplayName": "GameOver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
